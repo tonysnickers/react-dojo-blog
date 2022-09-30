@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "L'ex-directeur du football de Nice a expliqué mercredi",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "website",
+      "body": "s'il dévoilait les « vraies raisons » de leur conflit au Gym",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
